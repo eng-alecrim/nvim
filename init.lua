@@ -1,6 +1,6 @@
 require("alecrim.set")
+require("alecrim.funcoes")
 require("alecrim.remap")
-
 require("alecrim.lazy_init")
 
 -- DO.not
